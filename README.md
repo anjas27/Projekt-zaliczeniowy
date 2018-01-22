@@ -1,19 +1,24 @@
 # Projekt-zaliczeniowy
-Projekt dotyczy stworzenia aplikacji (Windows Forms) wysy³aj¹cej wiadomoœæ e-mail. Zosta³ wykonany w celu uzyskania zaliczenia z przedmiotu „Programowanie zaawansowane” prowadzonego w ramach kierunku Informatyka w Wy¿szej Szkole Bankowej w Poznaniu.
-## Jak przetestowaæ?
-Nale¿y wys³aæ wiadomoœæ e-mail z aplikacji.  
+Projekt dotyczy stworzenia aplikacji (Windows Forms) wysyÅ‚ajÄ…cej wiadomoÅ›Ä‡ e-mail. ZostaÅ‚ wykonany w celu uzyskania zaliczenia z przedmiotu â€Programowanie zaawansowaneâ€ prowadzonego w ramach kierunku Informatyka w WyÅ¼szej Szkole Bankowej w Poznaniu.
+## Jak przetestowaÄ‡?
+NaleÅ¼y wysÅ‚aÄ‡ wiadomoÅ›Ä‡ e-mail z aplikacji.  
+
+Gdy otworzymy aplikacjÄ™ wyglÄ…da ona nastÄ™pujÄ…co: 
+![1](https://user-images.githubusercontent.com/32016709/35218966-e689db0a-ff70-11e7-812e-474d092028f3.jpg)
+
+Po uzupeÅ‚nieniu niezbÄ™dnych elementÃ³w moÅ¼emy rÃ³wnieÅ¼ dodaÄ‡ do wiadomoÅ›ci zaÅ‚Ä…cznik: 
 
 
-## Opis dzia³ania
-Aplikacja ma wysy³aæ pocztê elektroniczn¹ pod wskazany adres za pomoc¹ dostêpnego w sieci serwera SMTP. 
+## Opis dziaÅ‚ania
+Aplikacja ma wysyÅ‚aÄ‡ pocztÄ™ elektronicznÄ… pod wskazany adres za pomocÄ… dostÄ™pnego w sieci serwera SMTP. 
 
 ## Propozycje TO DO
-- okreœlenie nadawcy
-- dodawanie adresatów
-- dodawanie za³¹czników
-- dodawanie dodatkowych odbiorców
+- okreÅ›lenie nadawcy
+- dodawanie adresatÃ³w
+- dodawanie zaÅ‚Ä…cznikÃ³w
+- dodawanie dodatkowych odbiorcÃ³w
 - dodawanie adresu serwera
-- dodawanie tematu wiadomoœci
-- dodawanie treœci wiadomoœci
-- dodawanie odbiorców ukrytych
-- mo¿liwoœæ wysy³ania wiadomosci
+- dodawanie tematu wiadomoÅ›ci
+- dodawanie treÅ›ci wiadomoÅ›ci
+- dodawanie odbiorcÃ³w ukrytych
+- moÅ¼liwoÅ›Ä‡ wysyÅ‚ania wiadomosci
