@@ -3,6 +3,9 @@ Projekt dotyczy stworzenia aplikacji (Windows Forms) wysyłającej wiadomość e
 ## Jak przetestować?
 Należy wysłać wiadomość e-mail z aplikacji.  
 
+## Opis działania
+Aplikacja ma wysyłać pocztę elektroniczną pod wskazany adres za pomocą dostępnego w sieci serwera SMTP. 
+
 Gdy otworzymy aplikację wygląda ona następująco: 
 ![1](https://user-images.githubusercontent.com/32016709/35218966-e689db0a-ff70-11e7-812e-474d092028f3.jpg)
 
@@ -18,10 +21,7 @@ Gdy wiadomość zostanie wysłana mamy możliwość zapisania jej treści do pli
 Po zapisaniu wiadomość do pliku jego treść wygląda nasepująco: 
 ![5](https://user-images.githubusercontent.com/32016709/35219066-43f58690-ff71-11e7-9967-7661bc008494.jpg)
 
-Pierwszy wiersz to nasz adresat, drugi to temat wiadomości, a ostatni wiersz to treść wysłanego maila. 
-
-## Opis działania
-Aplikacja ma wysyłać pocztę elektroniczną pod wskazany adres za pomocą dostępnego w sieci serwera SMTP. 
+Pierwszy wiersz to nasz adresat, drugi to temat wiadomości, a ostatni wiersz to treść wysłanego maila.
 
 ## Propozycje TO DO
 - określenie nadawcy
