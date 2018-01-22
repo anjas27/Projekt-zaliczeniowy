@@ -4,7 +4,7 @@ Projekt dotyczy stworzenia aplikacji (Windows Forms) wysyłającej wiadomość e
 Należy wysłać wiadomość e-mail z aplikacji.  
 
 ## Opis działania
-Aplikacja ma wysyłać pocztę elektroniczną pod wskazany adres za pomocą dostępnego w sieci serwera SMTP. 
+Aplikacja pozwala wysyłać pocztę elektroniczną wraz z załącznikami pod wskazany adres za pomocą dostępnego w sieci serwera SMTP. Po wysłaniu wiadomości istnieje możliwość zapisania jej do pliku .
 
 Gdy otworzymy aplikację wygląda ona następująco: 
 ![1](https://user-images.githubusercontent.com/32016709/35218966-e689db0a-ff70-11e7-812e-474d092028f3.jpg)
